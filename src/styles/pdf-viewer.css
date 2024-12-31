@@ -1,0 +1,20 @@
+
+/* PDF viewer styles */
+.react-pdf__Page {
+  margin-top: 10px;
+  max-width: 100%;
+  height: auto !important;
+}
+
+.react-pdf__Page__canvas {
+  max-width: 100%;
+  height: auto !important;
+}
+
+.react-pdf__Page__textContent {
+  height: auto !important;
+}
+
+.react-pdf__Page__annotations.annotationLayer {
+  padding: 20px;
+}
