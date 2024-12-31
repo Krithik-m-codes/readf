@@ -1,6 +1,6 @@
 @import './styles/pdf-viewer.css';
-@import 'node_modules/react-pdf/dist/esm/Page/AnnotationLayer.css';
-@import 'node_modules/react-pdf/dist/esm/Page/TextLayer.css';
+/* @import 'node_modules/react-pdf/dist/esm/Page/AnnotationLayer.css';
+@import 'node_modules/react-pdf/dist/esm/Page/TextLayer.css'; */
 
 @tailwind base;
 @tailwind components;
